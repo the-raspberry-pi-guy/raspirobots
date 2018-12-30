@@ -1,4 +1,4 @@
-# Learn Robotics With Raspberry Pi
+# Learn Robotics with Raspberry Pi - Code Repository
 
 ![alt text](https://www.theraspberrypiguy.com/wp-content/uploads/2018/12/blank_3dbook_slider.png)
 
