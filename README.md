@@ -32,6 +32,6 @@ You can download this code directly onto your Raspberry Pi with the terminal com
 
 Alternatively you can download this code locally by clicking on the "Clone or download" button at the top of the page. You will also find a zipped version of this code on the No Starch Press product page: https://nostarch.com/raspirobots
 
-### About the author?
+## Author Bio
 
 Matt Timmons-Brown runs the world’s most-popular Raspberry Pi YouTube channel, “The Raspberry Pi Guy” (www.youtube.com/theraspberrypiguy) with well over 5 million views. He is a Computer Science & Electronics Engineering student at the University of Edinburgh and is from Cambridge, UK.
