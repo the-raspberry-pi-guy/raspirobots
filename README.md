@@ -40,4 +40,4 @@ Recommended Pi Model: Raspberry Pi 3B+/3A+ or Pi Zero W (more efficient and lowe
 
 ## Author Bio
 
-Matt Timmons-Brown runs the world’s most-popular Raspberry Pi YouTube channel, “The Raspberry Pi Guy” (www.youtube.com/theraspberrypiguy) with well over 5 million views. He is a Computer Science & Electronics Engineering student at the University of Edinburgh and is from Cambridge, UK.
+Matt Timmons-Brown runs the world’s most-popular Raspberry Pi YouTube channel, “The Raspberry Pi Guy” (www.youtube.com/theraspberrypiguy) with over 6 million views. Originally from Cambridge, UK, Matt is a Computer Science student at the University of Edinburgh and has worked for Amazon Robotics and Huawei. He is a Robotics Research Intern in the School of Informatics, Edinburgh.
