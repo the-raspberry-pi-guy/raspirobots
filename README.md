@@ -38,6 +38,26 @@ This book is compatible with all models of Raspberry Pi.
 
 Recommended Pi Model: Raspberry Pi 3B+/3A+ or Pi Zero W (more efficient and lower power consumption)
 
+## Parts List
+
+These is an exhaustive list of the parts that I use in the book, Chapter by Chapter. Please note that all of them are not required to follow the book, you can mix and match as you please, and do the Chapters that you feel would be of most interest!
+
+### Chapter 1
+|Part   |UK Link   |USA Link   |
+|---    |---       |---        |
+|Raspberry Pi 3 Model B+| https://thepihut.com/products/raspberry-pi-3-model-b-plus | https://www.adafruit.com/product/3775 | 
+|8GB+ microSD card| https://thepihut.com/products/noobs-preinstalled-sd-card | https://www.adafruit.com/product/1294 |
+|HDMI cable/USB keyboard mouse  |  https://thepihut.com/products/official-raspberry-pi-hdmi-cable | https://www.adafruit.com/product/608 |
+|5V micro USB power adapter | https://thepihut.com/products/official-raspberry-pi-universal-power-supply | https://www.adafruit.com/product/1995 |
+
+### Chapter 2
+|Part   |UK Link   |USA Link   |
+|---    |---       |---        |
+|400 point breadboard| https://thepihut.com/products/raspberry-pi-breadboard-half-size | https://www.adafruit.com/product/4539 | 
+|1* LED and appropriate resistor (for basic HW project)| https://thepihut.com/products/ultra-bright-led-5mm-white-10-pack | https://www.adafruit.com/product/754 |
+|Jumper wires (an assortment)  |  https://thepihut.com/pages/search-results?q=jumper%20wire&page_num=5 | https://www.adafruit.com/?q=jumper%20wires |
+|1* Momentary push button | https://thepihut.com/products/mini-push-button-switch-5-pcs | https://www.adafruit.com/product/367 |
+
 ## Author Bio
 
 Matt Timmons-Brown runs the world’s most-popular Raspberry Pi YouTube channel, “The Raspberry Pi Guy” (www.youtube.com/theraspberrypiguy) with over 6 million views. Originally from Cambridge, UK, Matt is a Computer Science student at the University of Edinburgh and has worked for Amazon Robotics and Huawei. He is a Robotics Research Intern in the School of Informatics, Edinburgh.
