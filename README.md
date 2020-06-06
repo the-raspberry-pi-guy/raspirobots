@@ -67,5 +67,24 @@ These is an exhaustive list of the parts that I use in the book, Chapter by Chap
 |---    |---       |---        |
 |Robot chassis (make out of what you wish - more details in the book!)| Lego, cardboard boxes | Plastic, wood etc! |
 |2x brushed 5V to 9V DC motors with tires | https://thepihut.com/products/dc-motor-3v-inc-gearbox-wheel-and-tyre | https://www.adafruit.com/product/3216 |
-|6xAA Battery Box  | https://thepihut.com/products/panel-mount-battery-box-6x-aa-9v | https://ebay.to/3cGDS70 |
+|6xAA battery box  | https://thepihut.com/products/panel-mount-battery-box-6x-aa-9v | https://ebay.to/3cGDS70 |
 |6x AA batteries (I recommend rechargeable, but can use disposable) | https://www.amazon.co.uk/s?k=6+rechargeable+battery+aa&ref=nb_sb_noss_1 | https://www.amazon.com/s?k=6+rechargeable+battery+aa&ref=nb_sb_noss_1 |
+|LM2596 buck converter module | https://bit.ly/2XFMaru | https://ebay.to/2Uf0cyw |
+|L293D motor driver chip | https://bit.ly/3f0OD5Z | https://ebay.to/3eS3IGE |
+
+### Chapter 4
+|Part   |UK Link   |USA Link   |
+|---    |---       |---        |
+|Official Nintendo Wiimote (Second-hand works great! Just not 3rd party)| https://bit.ly/3dHgpE9 | https://ebay.to/2XIubkB |
+
+### Chapter 5
+|Part   |UK Link   |USA Link   |
+|---    |---       |---        |
+|HC-SR04 Ultrasonic Distance Sensor | https://thepihut.com/products/ultrasonic-distance-sensor-hcsr04 | https://www.adafruit.com/product/3942 |
+|1kΩ resistor and 2kΩ resistor (invest in a resistor assortment!) | https://bit.ly/379ajtR | https://ebay.to/2MDdh0h|
+
+### Chapter 6
+|Part   |UK Link   |USA Link   |
+|---    |---       |---        |
+|NeoPixel stick with headers | https://thepihut.com/products/adafruit-neopixel-stick-8-x-5050-rgb-led-with-integrated-drivers | https://www.adafruit.com/product/1426 |
+|Small 3.5mm speaker | https://bit.ly/2APaJcw | https://ebay.to/2MEkahC|
