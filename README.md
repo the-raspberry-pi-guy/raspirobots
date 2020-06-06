@@ -65,7 +65,7 @@ These is an exhaustive list of the parts that I use in the book, Chapter by Chap
 ### Chapter 3
 |Part   |UK Link   |USA Link   |
 |---    |---       |---        |
-|Robot chassis (make out of what you wish - more details in the book!)| 
+|Robot chassis (make out of what you wish - more details in the book!)| Lego, cardboard boxes | Plastic, wood etc! |
 |2x brushed 5V to 9V DC motors with tires | https://thepihut.com/products/dc-motor-3v-inc-gearbox-wheel-and-tyre | https://www.adafruit.com/product/3216 |
-|6xAA Battery Box  | https://thepihut.com/products/panel-mount-battery-box-6x-aa-9v | https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR5.TRC2.A0.H0.X6AA+battery+holder.TRS0&_nkw=6AA+battery+holder&_sacat=0 |
+|6xAA Battery Box  | https://thepihut.com/products/panel-mount-battery-box-6x-aa-9v | https://ebay.to/3cGDS70 |
 |6x AA batteries (I recommend rechargeable, but can use disposable) | https://www.amazon.co.uk/s?k=6+rechargeable+battery+aa&ref=nb_sb_noss_1 | https://www.amazon.com/s?k=6+rechargeable+battery+aa&ref=nb_sb_noss_1 |
