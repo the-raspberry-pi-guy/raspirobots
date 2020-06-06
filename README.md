@@ -20,6 +20,10 @@ As you work through the book, you’ll learn fundamental electronics skills like
 
 Requirements: Raspberry Pi and Python 3
 
+## Author Bio
+
+Matt Timmons-Brown runs the world’s most-popular Raspberry Pi YouTube channel, “The Raspberry Pi Guy” (www.youtube.com/theraspberrypiguy) with over 6 million views. Originally from Cambridge, UK, Matt is a Computer Science student at the University of Edinburgh and has worked for Amazon Robotics and Huawei. He is a Robotics Research Intern in the School of Informatics, Edinburgh.
+
 ## This repository?
 
 This repository stores all of the code and resources used in the book. It will be updated when necessary and if the code requires changes.
@@ -40,7 +44,7 @@ Recommended Pi Model: Raspberry Pi 3B+/3A+ or Pi Zero W (more efficient and lowe
 
 ## Parts List
 
-These is an exhaustive list of the parts that I use in the book, Chapter by Chapter. Please note that all of them are not required to follow the book, you can mix and match as you please, and do the Chapters that you feel would be of most interest!
+These is an exhaustive list of the parts that I use in the book, Chapter by Chapter. I have tried to make things as cheap and accessible as possible. Please note that all parts are not required to follow the book, you can mix and match as you please, and do the Chapters that you feel would be of most interest!
 
 ### Chapter 1
 |Part   |UK Link   |USA Link   |
@@ -54,10 +58,14 @@ These is an exhaustive list of the parts that I use in the book, Chapter by Chap
 |Part   |UK Link   |USA Link   |
 |---    |---       |---        |
 |400 point breadboard| https://thepihut.com/products/raspberry-pi-breadboard-half-size | https://www.adafruit.com/product/4539 | 
-|1* LED and appropriate resistor (for basic HW project)| https://thepihut.com/products/ultra-bright-led-5mm-white-10-pack | https://www.adafruit.com/product/754 |
+|1x LED and appropriate resistor (for basic HW project)| https://thepihut.com/products/ultra-bright-led-5mm-white-10-pack | https://www.adafruit.com/product/754 |
 |Jumper wires (an assortment)  |  https://thepihut.com/pages/search-results?q=jumper%20wire&page_num=5 | https://www.adafruit.com/?q=jumper%20wires |
-|1* Momentary push button | https://thepihut.com/products/mini-push-button-switch-5-pcs | https://www.adafruit.com/product/367 |
+|1x Momentary push button | https://thepihut.com/products/mini-push-button-switch-5-pcs | https://www.adafruit.com/product/367 |
 
-## Author Bio
-
-Matt Timmons-Brown runs the world’s most-popular Raspberry Pi YouTube channel, “The Raspberry Pi Guy” (www.youtube.com/theraspberrypiguy) with over 6 million views. Originally from Cambridge, UK, Matt is a Computer Science student at the University of Edinburgh and has worked for Amazon Robotics and Huawei. He is a Robotics Research Intern in the School of Informatics, Edinburgh.
+### Chapter 3
+|Part   |UK Link   |USA Link   |
+|---    |---       |---        |
+|Robot chassis (make out of what you wish - more details in the book!)| 
+|2x brushed 5V to 9V DC motors with tires | https://thepihut.com/products/dc-motor-3v-inc-gearbox-wheel-and-tyre | https://www.adafruit.com/product/3216 |
+|6xAA Battery Box  | https://thepihut.com/products/panel-mount-battery-box-6x-aa-9v | https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR5.TRC2.A0.H0.X6AA+battery+holder.TRS0&_nkw=6AA+battery+holder&_sacat=0 |
+|6x AA batteries (I recommend rechargeable, but can use disposable) | https://www.amazon.co.uk/s?k=6+rechargeable+battery+aa&ref=nb_sb_noss_1 | https://www.amazon.com/s?k=6+rechargeable+battery+aa&ref=nb_sb_noss_1 |
