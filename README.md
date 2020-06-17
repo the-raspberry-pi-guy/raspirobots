@@ -42,6 +42,11 @@ This book is compatible with all models of Raspberry Pi.
 
 Recommended Pi Model: Raspberry Pi 3B+/3A+ or Pi Zero W (more efficient and lower power consumption)
 
+## Erratum
+
+If you stumble upon any errors or incorrect parts of my book, please submit a PR to document them in this section, or send me an email for me to investigate into (theraspberrypiguy [at] gmail.com). Below is a list of known minor errata (page numbers from physical book):
+* Chapter 5, p115 - In the terminal prompt where I show the outputted distance metric from the HC-SR04 sensor, the command shown to have been run is ```python3 button.py``` whereas it should be the same as the previous page: ```python3 distance_test.py```
+
 ## Parts List
 
 The following is an exhaustive list of the parts that I use in the book, Chapter by Chapter. I have tried to make things as cheap and accessible as possible. Please note that all parts are not required to follow the book, you can mix and match as you please, and do the Chapters that you feel would be of most interest!
