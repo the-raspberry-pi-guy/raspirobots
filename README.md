@@ -49,6 +49,7 @@ If you stumble upon any errors or incorrect parts of my book, please submit a PR
 * Chapter 6, p140 - The ```wget``` links to the raw audio files are slightly different due to reorganisation of this Git repo. To download the audio files to your Pi, the commands should be:
     * ```wget https://github.com/the-raspberry-pi-guy/raspirobots/tree/master/Chapter%206%20-%20Adding%20RGB%20LEDs%20and%20Sound/sounds/beep.wav```
     * ```wget https://github.com/the-raspberry-pi-guy/raspirobots/tree/master/Chapter%206%20-%20Adding%20RGB%20LEDs%20and%20Sound/sounds/horn.wav```
+* Appendix: Resistor Guide, p203 - The example resistor calculation should result in a value of 560,000Ω (560kΩ), not 56,000Ω (56kΩ)
 
 ## Parts List
 
