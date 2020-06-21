@@ -51,6 +51,8 @@ If you stumble upon any errors or incorrect parts of my book, please submit a PR
     * ```wget https://github.com/the-raspberry-pi-guy/raspirobots/tree/master/Chapter%206%20-%20Adding%20RGB%20LEDs%20and%20Sound/sounds/horn.wav```
 * Appendix: Resistor Guide, p203 - The example resistor calculation should result in a value of 560,000Ω (560kΩ), not 56,000Ω (56kΩ)
 
+Thanks to Minoosh Heidari & Daryoush Alipour for spotting these errors.
+
 ## Parts List
 
 The following is an exhaustive list of the parts that I use in the book, Chapter by Chapter. I have tried to make things as cheap and accessible as possible. Please note that all parts are not required to follow the book, you can mix and match as you please, and do the Chapters that you feel would be of most interest!
