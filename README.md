@@ -44,7 +44,7 @@ Recommended Pi Model: Raspberry Pi 3B+/3A+ or Pi Zero W (more efficient and lowe
 
 ## Erratum
 
-If you stumble upon any errors or incorrect parts of my book, please submit a PR to document them in this section, or send me an email for me to investigate into (theraspberrypiguy [at] gmail.com). Below is a list of known minor errata (page numbers from physical book):
+If you stumble upon any errors or incorrect parts of my book, please submit a PR to document them in this section, or send me an email for me to investigate into (theraspberrypiguy [at] gmail.com). Below is a list of known minor errata (page numbers from physical book). These have been fixed in the second reprint of the book (Aug 2020):
 * Chapter 5, p115 - In the terminal prompt where I show the outputted distance metric from the HC-SR04 sensor, the command shown to have been run is ```python3 button.py``` whereas it should be the same as the previous page: ```python3 distance_test.py```
 * Chapter 6, p140 - The ```wget``` links to the raw audio files are slightly different due to reorganisation of this Git repo. To download the audio files to your Pi, the commands should be:
     * ```wget https://github.com/the-raspberry-pi-guy/raspirobots/tree/master/Chapter%206%20-%20Adding%20RGB%20LEDs%20and%20Sound/sounds/beep.wav```
