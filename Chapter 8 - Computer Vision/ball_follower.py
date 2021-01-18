@@ -31,7 +31,7 @@ for frame in camera.capture_continuous(rawCapture, format="bgr", use_video_port=
 
 	color_mask = cv2.inRange(hsv, lower_color, upper_color)
 
-	image2, contours, hierarchy = cv2.findContours(color_mask, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
+	contours, hierarchy = cv2.findContours(color_mask, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
 
 	object_area = 0
 	object_x = 0
