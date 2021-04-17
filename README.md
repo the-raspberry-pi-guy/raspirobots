@@ -42,6 +42,10 @@ This book is compatible with all models of Raspberry Pi.
 
 Recommended Pi Model: Raspberry Pi 3B+/3A+ or Pi Zero W (more efficient and lower power consumption)
 
+## Reviews
+
+"Learn Robotics with Raspberry Pi" is currently rated 5* on Amazon, with 100+ 5* reviews. It has featured on several category best-selling lists.
+
 ## Erratum
 
 If you stumble upon any errors or incorrect parts of my book, please submit a PR to document them in this section, or send me an email for me to investigate into (theraspberrypiguy [at] gmail.com). Below is a list of known minor errata (page numbers from physical book). 
